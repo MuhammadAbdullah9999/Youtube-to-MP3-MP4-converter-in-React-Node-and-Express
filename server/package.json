@@ -1,0 +1,32 @@
+{
+  "name": "youtube_to_mp3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@distube/ytdl-core": "^4.11.17",
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "axios": "^1.4.0",
+    "body-parser": "^1.20.2",
+    "concat": "^1.0.3",
+    "concat-stream": "^2.0.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "ffmpeg": "^0.0.4",
+    "fluent-ffmpeg": "^2.1.2",
+    "gridfs-stream": "^1.1.1",
+    "install": "^0.13.0",
+    "io": "^1.3.2",
+    "nodemon": "^2.0.22",
+    "npm": "^9.8.1",
+    "sanitize": "^2.1.2",
+    "sanitize-filename": "^1.6.3",
+    "ytdl": "^1.4.1",
+    "ytdl-core": "^4.11.4"
+  },
+  "description": ""
+}
