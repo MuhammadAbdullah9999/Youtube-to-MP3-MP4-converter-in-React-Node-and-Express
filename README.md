@@ -11,20 +11,20 @@ To run this application locally, you'll need to set up both the client and serve
 1. Navigate to the `client` directory:
 
    ```shell
-   cd client ```
+   cd client
 
 2. Install the client-side dependencies using npm:
 
 
 
    ```shell
-   npm install ```
+   npm install
 
 3. Start the client-side application:
 
 
    ```shell
-   npm start ```
+   npm start
 
 The client-side application will run on http://localhost:3000.
 
@@ -33,19 +33,19 @@ The client-side application will run on http://localhost:3000.
 
 
    ```shell
-   cd server ```
+   cd server
 
 2. Install the server-side dependencies using npm:
 
 
    ```shell
-   npm install ```
+   npm install
 
 3. Start the server using nodemon:
 
 
    ```shell
-   nodmeon app.js ```
+   nodmeon app.js
 
 The server will run on http://localhost:5000.
 
